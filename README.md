@@ -38,16 +38,8 @@ This project analyzes patient-level data to help explore smoking habits, recorde
 5. Organ-wise Health Condition Distribution
 6. Recorded Health Conditions by Smoking Exposure Group
 
-## Dashboard Preview
-
-![Smoking and Health Analysis Dashboard](dashboard_preview.png)
-
 ## DAX Calculated Columns
 
 - **Age Group:** 18–29, 30–44, 45–59, and 60+.
 - **BP Risk Category:** Lower Range, Elevated, and High.
 - **Smoking Exposure Group:** Categorizes estimated smoking duration into ranges.
-
-## Project File
-
-The Power BI project file (`Smoking_Health_Analysis.pbix`) is available in this repository.
